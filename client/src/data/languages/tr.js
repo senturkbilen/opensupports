@@ -8,7 +8,7 @@ export default {
     'PASSWORD': 'Parola',
     'REPEAT_PASSWORD': 'Şifreyi tekrar girin',
     'LOG_IN': 'Oturum aç',
-    'SIGN_UP': 'kaydol',
+    'SIGN_UP': 'Hesap Oluştur',
     'FORGOT_PASSWORD': 'Parolanızı mı unuttunuz?',
     'RECOVER_PASSWORD': 'Şifre kurtarma',
     'SET_UP_PASSWORD': 'Parolanızı ayarlama',
